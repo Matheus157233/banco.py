@@ -1,7 +1,6 @@
 # app.py
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 import numpy as np
 
 # Configuração da página
@@ -238,3 +237,4 @@ Agora, você pode seguir aprendendo:
 
 Continue sua jornada em Ciência de Dados com o **Py**!
 """)
+
